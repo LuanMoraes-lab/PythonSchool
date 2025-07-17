@@ -1,5 +1,3 @@
-# PythonSchool
-
 <h1 align="left">Olá,eu sou o Luan!</h1>
 
 ###
