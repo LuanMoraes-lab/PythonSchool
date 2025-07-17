@@ -10,7 +10,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LuanMoraes-lab/PythonSchool/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/LuanMoraes-lab/output/snake.svg" alt="Snake animation" />
 
 ###
 
